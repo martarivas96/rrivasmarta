@@ -1,8 +1,4 @@
-/*
-Please do not claim this website as your own. You don't have to give me credit but DON'T claim it's your code. When you use this as a base for your website please remove all tracking (Google Analytics, Heap).
-*/
 
-// PreLoader
 jQuery.noConflict();
 (function($) {
 	$(window).on('load', function() { // makes sure the whole site is loaded
